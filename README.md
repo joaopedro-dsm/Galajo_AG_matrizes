@@ -1,5 +1,5 @@
-# Galajo_AG_matrizes
-
+# Problema do simpatizante
+## OBMEP - o inferno
 **Grupo:** Galajo
 <br>
 **Integrantes:** Gabriela Frajtag, João Pedro da Silva Mariano, Laís Fernanda Medeiros Ruela
