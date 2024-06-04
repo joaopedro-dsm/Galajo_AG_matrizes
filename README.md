@@ -29,8 +29,8 @@ Distribuindo $n^2$ números distintos ($1,2,3,...n^2$) em uma matriz $n \times n
 Criamos uma operação chamada **SIMPATIZAR**.
 Dada uma matriz $A$ de tamanho $n \times n$, definimos:
 
-$P_{linha}(i)$ é o produto de todos os elementos na $i$-ésima linha
-$P_{coluna}(i)$ é o produto de todos os elementos na $i$-ésima coluna
+- $P_{linha}(i)$ é o produto de todos os elementos na $i$-ésima linha
+- $P_{coluna}(i)$ é o produto de todos os elementos na $i$-ésima coluna
 
 A operação simpatizar é definida como:
 
@@ -45,9 +45,11 @@ Podemos fazer isso da seguinter forma:
 
 $$ A_1 = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix} $$
 
-Vamos simpatizar a matriz $A_1$: <br>
-$$P_{linha}$: $1 \cdot2 + 3 \cdot4 = 2 + 12 = 14$$ <br>
-$$P_{coluna}$: $1 \cdot3 + 2 \cdot4 = 3 + 8 = 11$$
+<p align="center">
+  Vamos simpatizar a matriz \(A_1\): <br>
+  \(P_{linha}\): \(1 \cdot 2 + 3 \cdot 4 = 2 + 12 = 14\) <br>
+  \(P_{coluna}\): \(1 \cdot 3 + 2 \cdot 4 = 3 + 8 = 11\)
+</p>
 
 Logo $$S_{A_1} = 14 + 11 = 25$$
 
