@@ -29,8 +29,8 @@ Distribuindo $n^2$ números distintos ($1,2,3,...n^2$) em uma matriz $n \times n
 Criamos uma operação chamada **SIMPATIZAR**.
 Dada uma matriz $A$ de tamanho $n \times n$, definimos:
 
-* $P_{linha}(i)$ é o produto de todos os elementos na $i$-ésima linha
-* $P_{coluna}(i)$ é o produto de todos os elementos na $i$-ésima linha
+$P_{linha}(i)$ é o produto de todos os elementos na $i$-ésima linha
+$P_{coluna}(i)$ é o produto de todos os elementos na $i$-ésima coluna
 
 A operação simpatizar é definida como:
 
