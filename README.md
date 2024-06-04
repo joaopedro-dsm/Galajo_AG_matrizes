@@ -1,4 +1,4 @@
-# Problema do simpatizante
+# Problema do simpatizar
 ## OBMEP - o inferno
 **Grupo:** Galajo
 <br>
