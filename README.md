@@ -15,7 +15,7 @@ Há muitos questionamentos, porém, este trabalho discute sobre alguns deles, po
 
 Nesse repositório, há três arquivos:
 * README.md (arquivo atual para guiar o usuário)
-* (?).ipynb (notebook jupyter com o Algoritmo Genético)
+* AG_Projeto_Final_Galajo.ipynb (notebook jupyter com o Algoritmo Genético)
 * funcoes.py (script de Python com as funções usadas no notebook)
 
 ### Requisitos
