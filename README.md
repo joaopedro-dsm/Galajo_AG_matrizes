@@ -9,7 +9,7 @@
 ## Introdução
 Este repositório apresenta o tabalho final de Algoritmos Genéticos (AG) da equipe Galajo. No notebook em questão, apresentamos, por AG, resoluções de um problema inspirado em provas da Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP). A OBMEP tem por tradição fazer questões utilizando o ano vigente da prova, sempre com números grandes, como: ..., 2022, 2023, 2024... Pensando em operações matriciais, criamos uma função chamada SIMPATIZAR, onde queremos achar seu valor máximo para matrizes quadradas. A solução para esse problema usando matrizes até 3x3 é viável por busca em grade (força bruta), porém, quando a matriz é maior ou igual à 4x4 este custo computacional fica gigantesco. Observando uma matriz 4x4, temos 16! ≈ 2.1×10^13 tipos diferentes de matrizes para encontrar o valor máximo da SIMPATIZAR, isso poderia levar cerca de 243 dias em um único núcleo de CPU (assumindo que cada iteração leva 1 µs). Imagine isso para matrizes maiores... Então, nosso objetivo foi aplicar um método de maximização por Algoritmos Genéticos, tentando responder e nos debruçar em algumas perguntas intrínsecas ao problema. Alguns questionamentos não são tão fáceis de serem respondidos, como:
 Quais padrões existentes nas matrizes solução? Há alguma solução analítica para esse problema? Quais operadores utilizar para o AG convergir melhor no valor máximo de SIMPATIZAR? 
-Há muitos questionamentos, porém, este trabalho discute sobre alguns deles, por exemplo, o que acontece se usarmos tipos diferentes de mutação?
+Há muitos questionamentos, porém, este trabalho discute sobre alguns deles, por exemplo, o que acontece se usarmos tipos diferentes de operadores de mutação?
 
 ## Estrutura do Repositório
 
