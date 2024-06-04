@@ -43,7 +43,12 @@ Chamaremos a matriz de **simpática-rainha** caso, para os números escolhidos, 
 Sabendo que a matriz a seguir é uma solução para maximizar a função simpatizante, escolhemos $n = 4$ e vamos usar os números $1,2,3,4$ e organizandos em uma matriz $2 \times 2$. 
 Podemos fazer isso da seguinter forma:
 
-$$ A_1 = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix} $$
+$$
+A_1 = \begin{pmatrix}
+1 & 2 \\
+3 & 4
+\end{pmatrix}
+$$
 
 Vamos simpatizar a matriz $A_1$:
 
