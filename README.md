@@ -34,7 +34,7 @@ Dada uma matriz $A$ de tamanho $n \times n$, definimos:
 
 A operação simpatizar é definida como:
 
-$S = \sum_{i=1}^n P_{linha}(i) + \sum_{j=1}^n P_{coluna}(j)$
+$$ S = \sum_{i=1}^n P_{linha}(i) + \sum_{j=1}^n P_{coluna}(j) $$
 
 em que $S$ é o simpatizante.
 
