@@ -47,8 +47,8 @@ $$ A_1 = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix} $$
 
 Vamos simpatizar a matriz $A_1$:
 
-- $$P_{linha}: 1 \cdot 2 + 3 \cdot 4 = 2 + 12 = 14$$
-- $$P_{coluna}: 1 \cdot 3 + 2 \cdot 4 = 3 + 8 = 11$$
+- $P_{linha}: 1 \cdot 2 + 3 \cdot 4 = 2 + 12 = 14$
+- $P_{coluna}: 1 \cdot 3 + 2 \cdot 4 = 3 + 8 = 11$
 
 Logo $$S_{A_1} = 14 + 11 = 25$$
 
