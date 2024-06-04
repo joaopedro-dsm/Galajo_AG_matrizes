@@ -46,17 +46,17 @@ Podemos fazer isso da seguinter forma:
 $$ A_1 = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix} $$
 
 Vamos simpatizar a matriz $A_1$: <br>
-$P_{linha}$: $1 \cdot2 + 3 \cdot4 = 2 + 12 = 14$ <br>
-$P_{coluna}$: $1 \cdot3 + 2 \cdot4 = 3 + 8 = 11$
+$$P_{linha}$: $1 \cdot2 + 3 \cdot4 = 2 + 12 = 14$$ <br>
+$$P_{coluna}$: $1 \cdot3 + 2 \cdot4 = 3 + 8 = 11$$
 
-Logo $S_{A_1} = 14 + 11 = 25$
+Logo $$S_{A_1} = 14 + 11 = 25$$
 
 ## Conclusão
 
 
 ## Referências
-[1] Cassar, Daniel. Material Didático do Curso de Redes Neurais e Algoritimos Genéticos. Ilum - Escola de Ciência, 2024.
-[2] NUMPY. Documentação oficial. Disponível em: https://numpy.org/. Acesso em: 03 jun. 2024
-[3] MATPLOTLIB. Documentação oficial. Disponível em: https://matplotlib.org/. Acesso em: 03 jun. 2024.
-[4] PYTHON. Biblioteca Padrão. Itertools - Funções para criar iteradores para iterar sobre dados de maneira eficiente. Disponível em: https://docs.python.org/3/library/itertools.html. Acesso em: 03 jun. 2024.
-[5] OBMEP. Provas Passadas. Disponível em: https://www.obmep.org.br/provas.htm. Acesso em: 03 jun. 2024
+- [1] Cassar, Daniel. Material Didático do Curso de Redes Neurais e Algoritimos Genéticos. Ilum - Escola de Ciência, 2024.
+- [2] NUMPY. Documentação oficial. Disponível em: https://numpy.org/. Acesso em: 03 jun. 2024
+- [3] MATPLOTLIB. Documentação oficial. Disponível em: https://matplotlib.org/. Acesso em: 03 jun. 2024.
+- [4] PYTHON. Biblioteca Padrão. Itertools - Funções para criar iteradores para iterar sobre dados de maneira eficiente. Disponível em: https://docs.python.org/3/library/itertools.html. Acesso em: 03 jun. 2024.
+- [5] OBMEP. Provas Passadas. Disponível em: https://www.obmep.org.br/provas.htm. Acesso em: 03 jun. 2024
