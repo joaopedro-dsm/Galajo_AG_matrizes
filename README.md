@@ -58,7 +58,13 @@ Vamos simpatizar a matriz $A_1$:
 Logo $$S_{A_1} = 14 + 11 = 25$$
 
 ## Conclusão
-
+Pudemos observar após esse estudo que, apesar de alguns operadores se mostrarem melhores que outros, e a combinação de todos eles ter apresentado o melhor resultado final, a diferença entre o simpatizante máximo, a média e a mediana de cada um dos operadores não foi significativamente relevante.
+ 
+Algumas hipóteses foram formuladas para resolver esse impasse. A primeira é que, possivelmente, uma população inicial maior e um maior número de gerações poderiam produzir um resultado melhor e talvez até convergir com mais rapidez. Além disso, outros parâmetros podem ser alterados, como a chance de cruzamento e a chance de mutação.
+ 
+Outra questão é que, ao utilizar o cruzamento ordenado durante o desenvolvimento deste notebook, notamos que ele não estava dando bons resultados e frequentemente caía em máximos locais. Utilizar o cruzamento de ponto simples com correção melhorou esse problema, mas talvez seja interessante testar outros tipos de cruzamento e observar se nosso algoritmo converge mais rapidamente e resulta em melhores valores para o simpatizante.
+ 
+Propomos, portanto, como perspectivas futuras, testar essas hipóteses e utilizar diferentes métodos a fim de verificar se otimizamos nosso algoritmo, além de testá-lo em matrizes com valores de $n$ maiores e observar como o simpatizante se comporta.
 
 ## Referências
 - [1] Cassar, Daniel. Material Didático do Curso de Redes Neurais e Algoritmos Genéticos. Ilum - Escola de Ciência, 2024.
